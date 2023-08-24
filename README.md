@@ -2,3 +2,5 @@
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning programming
 
+- Learing to program PHP language, i am in the beginning.
+
